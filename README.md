@@ -11,7 +11,7 @@ Run node app.js to run the project on http://localhost:3000/
 
 **Client:** HTML , CSS & Bootstrap
 
-**Server:** NodeJs & ExpressJs
+**Server:** NodeJs, ExpressJs & EJS
 
   
 ## Authors
